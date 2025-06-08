@@ -39,7 +39,7 @@ Para executar este projeto, siga os passos abaixo:
 
 2.  **Clonar o repositório:**
     ```bash
-    git clone
+    git clone https://github.com/RafaelT196/sistema-vendas-java
     ```
 
 3.  **Abrir no IntelliJ IDEA:**
