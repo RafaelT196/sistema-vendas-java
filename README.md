@@ -69,11 +69,11 @@ O projeto está organizado com base nos princípios da Orientação a Objetos, c
 ##  Próximos Passos (Possíveis Melhorias)
 
 -   [ ] Implementar persistência de dados em arquivos (JSON).
--   [ ] Conectar o sistema a um banco de dados (H2, SQLite ou PostgreSQL).
+-   [ ] Conectar o sistema a um banco de dados.
 -   [ ] Adicionar funcionalidades de cadastro de novos usuários e produtos via menu.
 -   [ ] Refatorar a estrutura para utilizar uma arquitetura em camadas (Service e Repository/DAO).
 -   [ ] Criar uma interface gráfica (GUI) com Java Swing ou JavaFX.
 
 ---
 
-*Desenvolvido por [Rafael Tamassia]*
+*Desenvolvido por Rafael Tamassia*
