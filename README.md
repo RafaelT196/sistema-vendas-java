@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Este é um projeto acadêmico desenvolvido em Java que simula um sistema de vendas simples, operado inteiramente através do console (terminal). O objetivo é aplicar e demonstrar conceitos fundamentais de Programação Orientada a Objetos (POO), como classes, objetos, encapsulamento e relacionamentos entre entidades.
+Este é um projeto desenvolvido em Java que simula um sistema de vendas simples, operado inteiramente através do console (terminal). O objetivo é aplicar e demonstrar conceitos fundamentais de Programação Orientada a Objetos (POO), como classes, objetos, encapsulamento e relacionamentos entre entidades.
 
 O sistema permite listar produtos, registrar usuários e simular a venda de itens, com controle de estoque e histórico de transações.
 
